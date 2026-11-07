@@ -7,4 +7,4 @@
 * Directory-review hardening: public page and archive shortcodes now use the unique `twbce_cjenik` and `twbce_arhiva` tags; replace legacy `sidrena-cjenik` and `sidrena-arhiva` tags in page content.
 * Quality gates: 640 unit tests (2,419 assertions); integration suite 103 tests / 488 assertions (1 skipped); 42 Chromium E2E tests; packaged Plugin Check reported no errors.
 
-Package SHA-256: a73fc2343c197449fdeb2c26f79e66c27c75c3a4f5e8d75c9cf40e525ed9cc0d
+Package SHA-256: e829a86962828c8f8ae702bee56b3e7f65f5e743669a3305eadc0f63195e1acf
