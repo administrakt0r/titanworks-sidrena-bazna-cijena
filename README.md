@@ -60,7 +60,7 @@ Umetnite shortcode u sadržaj WordPress stranice:
 | `[twbce_cjenik]` | Javni cjenik s pretraživanjem i straničenjem |
 | `[twbce_arhiva]` | Arhiva objavljenih cjenika |
 
-Od izdanja 2.0.25 stranice s oznakama `[sidrena-cjenik]` i `[sidrena-arhiva]`
+Od izdanja 2.0.26 stranice s oznakama `[sidrena-cjenik]` i `[sidrena-arhiva]`
 treba ažurirati na `[twbce_cjenik]` i `[twbce_arhiva]`.
 
 REST sučelja koriste prefiks `/wp-json/sidrena-cijena/v1/`:
@@ -84,7 +84,7 @@ wp sidrena-cijena generate --force
 ## Izdanja i provjera preuzimanja
 
 Ovaj repozitorij sadrži instalacijske pakete i kontrolne sume. Najnovije izdanje
-je [2.0.25](https://github.com/administrakt0r/titanworks-sidrena-bazna-cijena/releases/tag/v2.0.25).
+je [2.0.26](https://github.com/administrakt0r/titanworks-sidrena-bazna-cijena/releases/tag/v2.0.26).
 Popis izmjena nalazi se u bilješkama izdanja i u `readme.txt` unutar paketa.
 
 Svaka mapa u `versions/` sadrži `titanworks-bazna-cijena.zip` i `SHA256SUMS.txt`.
