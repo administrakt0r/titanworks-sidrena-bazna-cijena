@@ -6,4 +6,4 @@
 * Integrated official WordPress engineering agent skills (wp-plugin-development, wp-plugin-directory-guidelines, wp-performance, wp-phpstan, wp-rest-api, wp-wpcli-and-ops, wp-css-audit) and guidelines in AGENTS.md.
 * Quality gates: 648 unit tests (2,451 assertions) passing 100%; complete Croatian translation catalog with 0 untranslated strings.
 
-Package SHA-256: 5e84152deef9814931a681f8fbdbe9038291f594f63dfea846c3c8e494ec3d70
+Package SHA-256: 3997ceff93a860cb2f39defd7a2c90f29441397f8a2b4750c449203eb83f9acf
