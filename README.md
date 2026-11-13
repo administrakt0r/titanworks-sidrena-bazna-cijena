@@ -84,7 +84,7 @@ wp sidrena-cijena generate --force
 ## Izdanja i provjera preuzimanja
 
 Ovaj repozitorij sadrži instalacijske pakete i kontrolne sume. Najnovije izdanje
-je [2.0.39](https://github.com/administrakt0r/titanworks-sidrena-bazna-cijena/releases/tag/v2.0.39).
+je [2.0.40](https://github.com/administrakt0r/titanworks-sidrena-bazna-cijena/releases/tag/v2.0.40).
 Popis izmjena nalazi se u bilješkama izdanja i u `readme.txt` unutar paketa.
 
 Svaka mapa u `versions/` sadrži `titanworks-bazna-cijena.zip` i `SHA256SUMS.txt`.
