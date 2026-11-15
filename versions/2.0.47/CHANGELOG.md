@@ -5,4 +5,4 @@
 * Admin: every logged event (including generation warnings, catch-up runs and file integrity checks) now has a translated label and can be selected in the Logs and Audit filters.
 * Code: removed unused internal methods. No change to price history, exports or legal display rules.
 
-Package SHA-256: c31986fc7853c27bebc5a826a9ee2b11b00b1f37ac596c4bf54c9d04c13e0941
+Package SHA-256: 5b1f18edc6dce18eac5ba6950df4096bd93b7b5c5ed3ad08d34f0cbe44538ea0
